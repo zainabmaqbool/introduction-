@@ -1,2 +1,3 @@
 introduction to git 
 we are learning git and github
+we are going to write the diff line at same place to merge it later.
